@@ -1,0 +1,23 @@
+{
+  "name": "W25Q64-flash",
+  "version": "1.0.0",
+  "description": "Hardware-agnostic driver for W25Q64 SPI NOR flash. Compatible with Winbond W25Q64 and clones (XMC XM25QH64C, BOYA BY25Q64). Provides read, write, erase, and power management via user-supplied SPI transfer and delay callbacks.",
+  "keywords": "flash, nor-flash, spi, w25q64, winbond, storage, stm32",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/STM32-pio-libs/W25Q64-flash"
+  },
+  "authors": [
+    {
+      "name": "Anurag Kumar Singh",
+      "email": "anurag3301.0x0@gmail.com",
+      "url": "https://github.com/anurag3301",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/STM32-pio-libs",
+  "dependencies": {},
+  "frameworks": "*",
+  "platforms": "*"
+}
