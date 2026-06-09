@@ -2,8 +2,9 @@
 
 Portable W25Q64 SPI NOR flash driver for STM32 using STM32Cube HAL, with pluggable SPI transfer and delay callbacks.
 <p align="center">
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/c881de2c-44a1-46ad-97e3-303cb18ebf9c" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/ae1c552f-d9d1-405f-8289-4dd74c51313b" />
 </p>
+
 ## Features
 
 - Transport-agnostic architecture — no hard dependency on a specific STM32 peripheral instance
